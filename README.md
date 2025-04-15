@@ -58,10 +58,18 @@
 </table>
 
 ---
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-parkjs&theme=darkhub&row=1&column=6" />
+</div>
+
+
+---
+> 🙌 함께 배우고, 함께 성장하는 개발자가 되고 싶어요.
+> 작은 아이디어도 직접 만들어보며 꾸준히 성장하고 있고,
+> 데이터와 코드로 사람들에게 가치를 전하고, 유용한 서비스를 만드는 것이 제 목표입니다.
+
+---
 
 ## 📫 Contact
-
----
-> 🙌 함께 배우고 성장할 수 있는 개발자가 되고 싶어요!
-
----
