@@ -42,9 +42,14 @@
 ## 📈 GitHub Stats
 
 <div align="center">
+  
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=dev-parkjs&show_icons=true&theme=calm" />
+
+  <!-- Most Used Languages -->
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-parkjs&layout=compact&theme=calm" />
+
 </div>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-parkjs&theme=calm" />
