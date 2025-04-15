@@ -42,9 +42,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jisook&bg_color=180,00000000,&title_color=000000&text_color=000000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisook&layout=compact&bg_color=180,00000000,&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-parkjs&show_icons=true&theme=calm" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-parkjs&layout=compact&theme=calm" />
 </div>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-parkjs&theme=calm" />
 
 ---
 
